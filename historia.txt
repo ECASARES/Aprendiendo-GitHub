@@ -1,2 +1,4 @@
-Hola esta es la historia sobre como aprendi programación paso por paso.
+﻿Hola esta es la historia sobre como aprendi programación paso por paso.
 mañana nos enfocaremos en su vida laboral.
+
+Esto es algo nuevo que añado para probar el enlace con GitHub.
